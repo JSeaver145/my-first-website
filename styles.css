@@ -1,25 +1,26 @@
 body {
-    font-family: Arial, sans_serif;
+    font-family: Arial, sans-serif;
     margin: 40px;
     line-height: 1.6;
-    background-color: #f7f9fc;
+    background-color: #fff0f3;
 }
 
 h1 {
-    color: #2c3e50;
-    border-bottom: 2px solid #3498db;
-    padding-bottom: 10px;    
+    color: #ff4d6d;
+    border-bottom: 2px solid #ff758f;
+    padding-bottom: 10px;
 }
 
 p {
-    color: #34495e;
+    color: #590d22;
+    font-size: 1.2em;
 }
 
 .container {
     background-color: white;
     padding: 25px;
     border-radius: 8px;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    box-shadow: 0 2px 4px rgba(255,77,109,0.2);
 }
 
 ul {
